@@ -31,7 +31,6 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Brother! </h1>
    <h2> Deployed Artifacts to Kubernetes ! </h2>
   
 </form>
